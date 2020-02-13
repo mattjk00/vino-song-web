@@ -1,0 +1,33 @@
+body {
+    background-color: #bbe1fa;
+    font-family: 'Raleway', Arial;
+}
+.v {
+    color: #ff2e63;
+}
+#header {
+    background-color:#1b262c;
+    height:10vh;
+    top:0;
+    left:0;
+    position:fixed;
+    width:100vw;
+}
+#header h1 {
+    color: #bbe1fa;
+    text-align: center;
+}
+#main {
+    top:15vh;
+    width:50vw;
+    left:25vw;
+    position: fixed;
+    height:15vh;
+    text-align: center;
+}
+td {
+    background-color:#0f4c75;
+    width:5vw;
+    height:5vw;
+    color:#bbe1fa;
+}
